@@ -15,15 +15,15 @@ author_profile: true
 
 ## Statistics (30001)
 * Fall 2022, Fall 2023, Fall 2024
-* Bocconi University, BSc\
-The course introduces to the basic of descriptive statistics and inference.
+* Bocconi University, BSc
+* The course introduces to the basic of descriptive statistics and inference.
 
 ## Time Series (20236)
 * Spring 2024, Spring 2025
-* Bocconi University, MSc\
-The course addresses frequentist and Bayesian inference of time-series data, with a particular focus on dynamic linear models.
+* Bocconi University, MSc
+* The course addresses frequentist and Bayesian inference of time-series data, with a particular focus on dynamic linear models.
 
 ## Machine Learning (20596)
 * Spring 2024, Spring 2025
-* Bocconi University\
-The course presents the fundamentals of statistical machine learning, both from a regression and a classification point of view.
+* Bocconi University
+* The course presents the fundamentals of statistical machine learning, both from a regression and a classification point of view.
