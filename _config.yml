@@ -11,9 +11,9 @@ title                    : "Giovanni Romanò"
 title_separator          : "-"
 name                     : &name "Giovanni Romanò"
 description              : &description "PhD Student Bocconi University"
-url                      : https://giovanni-romano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://giovanniromano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://giovanni-romano.github.io"
+repository               : "https://giovanniromano.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "giovanni.romano4@phd.unibocconi.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
