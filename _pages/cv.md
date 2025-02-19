@@ -13,7 +13,7 @@ This page is intended as a short digital version of my CV. Here you can find the
 
 Education
 ======
-* PhD in Statistics and Computer Science, Bocconi University, 2021-Current (expected 01-2026)
+* PhD in Statistics and Computer Science, Bocconi University, 2021-Current (expected Jan 2026)
 * M.S. Statistical Sciences, University of Padua, 2019-2021
 * B.S. in Statistics and Management of Information, University of Milan-Bicocca, 2016-2019 
 
