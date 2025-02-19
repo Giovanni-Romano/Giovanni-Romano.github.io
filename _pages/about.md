@@ -17,4 +17,4 @@ You can find me in the Office 3-E2-07 in the Grafton Building (via Rontgen 1, Mi
 
 ## Ongoning research projects
 - _Dynamic clustering of country-specific log-mortality rates via random partition models on B-splines expansions._ with Aliverti, E., Durante, D.
-- _Dependent stochastic block-models for sequences of networks, with application to USA causes of death._ with Castiglione C., Durante, D.
+- _Dependent stochastic block models for sequences of networks, with application to USA causes of death._ with Castiglione C., Durante, D.
