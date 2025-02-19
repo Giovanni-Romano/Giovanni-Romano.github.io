@@ -1,5 +1,7 @@
 # main links links
-main:    
+main:
+  - title: "Research Projects"
+    url: /researchprojects/
   - title: "CV"
     url: /cv/
   - title: "Teaching"
