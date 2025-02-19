@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+This page is intended as a short digital version of my CV. Here you can find the complete analog version of it: [CV](https://giovanni-romano.github.io/files/CV_Giovanni_Romanò.pdf)
+
 Education
 ======
-* PhD in Statistics and Computer Science, Bocconi University, 2021-Current
+* PhD in Statistics and Computer Science, Bocconi University, 2021-Current (expected 01-2026)
 * M.S. Statistical Sciences, University of Padua, 2019-2021
 * B.S. in Statistics and Management of Information, University of Milan-Bicocca, 2016-2019 
 
@@ -25,6 +27,6 @@ Skills
 * Programming Language: R, Python, Julia
 * Languages: Italian (mothertongue), English
 
-Interests and Activities
+Awards
 ======
-* Sports, amateur basketball player since I was 6
+* Best master thesis in Methodological Statistic, in memory of professor Oliviero Lessi{SIS}{}{}{\textit{Combination of estimates through confidence densities in logistic regression models}, under the supervision of professor Nicola Sartori}
