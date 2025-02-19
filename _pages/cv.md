@@ -21,7 +21,7 @@ This page is intended as a short digital version of my CV. Here you can find the
 * Internship at Deloitte Consulting (Actuarial Department), Spring 2016
 
 ## Awards
-* Best master thesis in Methodological Statistic, in memory of professor Oliviero Lessi (Società Italiana di Statistica)\
+* SIS best master thesis in Methodological Statistic, in memory of professor Oliviero Lessi (honorable mention)\
   _Combination of estimates through confidence densities in logistic regression models_, under the supervision of Nicola Sartori
 
 ## Skills
