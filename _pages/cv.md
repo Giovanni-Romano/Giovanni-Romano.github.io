@@ -19,8 +19,8 @@ Education
 
 Work experience
 ======
+* [Teaching](https://giovanni-romano.github.io/teaching/) Assistant for the course Statistics (30001) at Bocconi University (a.y. 2022-23, 2023-2024, 2024-2025)
 * Internship at Deloitte Consulting (Actuarial Department), Spring 2016
-* Teaching Assistant for the course Statistics (30001) at Bocconi University (a.y. 2022-23, 2023-2024)
 
 Skills
 ======
