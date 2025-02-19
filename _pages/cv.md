@@ -29,4 +29,4 @@ Skills
 
 Awards
 ======
-* Best master thesis in Methodological Statistic, in memory of professor Oliviero Lessi{SIS}{}{}{\textit{Combination of estimates through confidence densities in logistic regression models}, under the supervision of professor Nicola Sartori}
+* Best master thesis in Methodological Statistic, in memory of professor Oliviero Lessi (Società Italiana di Statistica)\ _Combination of estimates through confidence densities in logistic regression models_, under the supervision of professor Nicola Sartori}
