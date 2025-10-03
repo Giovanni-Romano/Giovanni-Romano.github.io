@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 4th year PhD student in Statistics and Computer Science at Bocconi University, Milan.
-I'm currently working on the developement of Bayesian models for complex real-world data under the supervision of [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University) and co-supervision of [Emanuele Aliverti](https://emanuelealiverti.github.io/) (University of Padova).
+I am currently postdoc at KIT, within the [KleinLab](https://kleinlab-statml.github.io/) under the supervision of [Nadja Klein](https://www.scc.kit.edu/personen/nadja.klein.php).
+I am PhD candidate in Statistics and Computer Science at Bocconi University, Milan (dissertation in January).
+During my PhD I have worked on the developement of Bayesian models for complex mortality data under the supervision of [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University) and co-supervision of [Emanuele Aliverti](https://emanuelealiverti.github.io/) (University of Padova).
 
-You can contact me at [giovanni.romano4@phd.unibocconi.it](mailto:giovanni.romano4@phd.unibocconi.it).
+You can contact me at [giovanni.romano@kit.edu](mailto:giovanni.romano@kit.edu) or [giovanni.romano4@phd.unibocconi.it](mailto:giovanni.romano4@phd.unibocconi.it).
 
-You can find me in the Office 3-E2-07 in the Grafton Building (via Rontgen 1, Milan, 20136).
+You can find me in room 364 in the 20.20 building (Zirkel 2, 76131 Karlsruhe).
 
 ## Ongoning research projects
-- _Dependent stochastic block models for sequences of networks, with application to USA causes of death._ with Castiglione C., Durante, D.
+- _Bayesian temporal clustering of age-specific leading causes of death profiles across multiple countries_ with Piccarreta R., Durante, D.
+- _Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks._ with Castiglione C., Durante, D. \[submitted, see [pubblications](https://giovanni-romano.github.io/publications/)\]
 - _Bayesian local clustering of age-period mortality surfaces across multiple countries_.  with Aliverti E., Durante D. \[submitted, see [pubblications](https://giovanni-romano.github.io/publications/)\]
