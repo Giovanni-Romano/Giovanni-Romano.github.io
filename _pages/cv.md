@@ -11,6 +11,9 @@ redirect_from:
 
 This page is intended as a short digital version of my CV. Here you can find the complete analog version of it: [CV](https://giovanni-romano.github.io/files/CV_Giovanni_Romanò.pdf)
 
+## Current position
+* Postdoctoral researcher at KIT (Karlsruhe Institute of Technology) within the [KleinLab](https://kleinlab-statml.github.io/), advised by prof. Nadja Klein.
+
 ## Education
 * PhD in Statistics and Computer Science, Bocconi University, 2021-Current (expected Jan 2026) \
 Advisor: [Daniele Durante](https://danieledurante.github.io/web/). Co-Advisor: [Emanuele Aliverti](https://emanuelealiverti.github.io/)
