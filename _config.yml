@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giovanni Romanò"
 title_separator          : "-"
 name                     : &name "Giovanni Romanò"
-description              : &description "PhD Student Bocconi University"
+description              : &description "Postdoctoral researcher at KIT and PhD Candidate at Bocconi University"
 url                      : https://giovanni-romano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://giovanni-romano.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Giovanni Romanò"
   avatar           : "profile.png"
-  bio              : "Phd Students in Statistics and Computer Science"
-  location         : "Bocconi University, Milan"
+  bio              : "Postdoctoral researcher at KIT and PhD Candidate at Bocconi University"
+  location         : "Karlsruhe Institute of Techonology, Germany"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "giovanni.romano4@phd.unibocconi.it"
+  email            : "giovanni.romano@kit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
