@@ -25,7 +25,7 @@ Thesis Title: Predictive maintenance, statistical approaches and models\
 Advisor: [Piergiorgio Lovaglio](https://www.unimib.it/pietro-giorgio-lovaglio)
 
 ## Work experience
-* [Teaching](https://giovanni-romano.github.io/teaching/) Assistant for the course Statistics (30001) at Bocconi University (a.y. 2022-23, 2023-2024, 2024-2025)
+* [Teaching](https://giovanni-romano.github.io/teaching/) Assistant at Bocconi University (a.y. 2022-23, 2023-2024, 2024-2025)
 * Internship at Deloitte Consulting (Actuarial Department), Spring 2016
 
 ## Awards
