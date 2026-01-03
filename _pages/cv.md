@@ -29,6 +29,9 @@ Advisor: [Piergiorgio Lovaglio](https://www.unimib.it/pietro-giorgio-lovaglio)
 * Internship at Deloitte Consulting (Actuarial Department), Spring 2016
 
 ## Awards
+* Poster award, BNP14, UCLA, Los Angeles. _Dependent stochastic block models for sequences of directed networks, with application to USA causes of
+death_.
+* Junior travel award, ISBA2024, Ca’ Foscari University, Venice. _Bayesian local clustering of age-period mortality surfaces across multiple countries_.
 * SIS best master thesis in Methodological Statistic, in memory of professor Oliviero Lessi (honorable mention)\
   [_Combination of estimates through confidence densities in logistic regression models_](https://thesis.unipd.it/handle/20.500.12608/22015), under the supervision of Nicola Sartori
 
