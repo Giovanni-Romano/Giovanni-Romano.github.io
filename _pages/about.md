@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 I am currently a postdoc at KIT, within the [KleinLab](https://kleinlab-statml.github.io/) under the supervision of [Nadja Klein](https://www.scc.kit.edu/personen/nadja.klein.php).\
-I am a PhD candidate in Statistics and Computer Science at Bocconi University (Milan) and I will defend my dissertation in January.
-During my PhD I have worked on the developement of Bayesian models for complex mortality data under the supervision of [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University) and co-supervision of [Emanuele Aliverti](https://emanuelealiverti.github.io/) (University of Padova).
+I completed in January 2026 my PhD in Statistics and Computer Science at Bocconi University (Milan). During my PhD I have worked on the developement of Bayesian models for complex mortality data under the supervision of [Daniele Durante](https://danieledurante.github.io/web/) (Bocconi University) and co-supervision of [Emanuele Aliverti](https://emanuelealiverti.github.io/) (University of Padova).
 
 You can contact me at [giovanni.romano@kit.edu](mailto:giovanni.romano@kit.edu) or [giovanni.romano4@phd.unibocconi.it](mailto:giovanni.romano4@phd.unibocconi.it).
 
