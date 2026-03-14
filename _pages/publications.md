@@ -18,3 +18,7 @@ author_profile: true
 * **Age-Dependent Analysis of Mortality Patterns in Italy: A Network Perspective via Dynamic Stochastic Block Models.**
 Castiglione C., <ins>Romanò G.</ins> (2025).
 *Statistics for Innovation I, SIS 2025, Short Papers, Plenary, Specialized, and Solicited Sessions* (di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S.), pp. 271-276. [[link](https://link.springer.com/chapter/10.1007/978-3-031-96736-8_45)] [[pdf](/files/papers/SIS2025_PAPER.pdf)]
+
+## Thesis
+* **Bayesian hierarchical modeling of array-structured demographic data**, *PhD thesis, under the supervision of Prof. Daniele Durante and Prof. Emanuele Aliverti*.
+* **Combinazione di stime tramite confidence densities nel modello di regressione logistica**, *Master thesis, under the supervision of Prof. Nicola Sartori*.
