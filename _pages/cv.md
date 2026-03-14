@@ -15,12 +15,13 @@ This page is intended as a short digital version of my CV. Here you can find the
 * Postdoctoral researcher at KIT (Karlsruhe Institute of Technology) within the [KleinLab](https://kleinlab-statml.github.io/), advised by prof. Nadja Klein.
 
 ## Education
-* PhD in Statistics and Computer Science, Bocconi University, 2021-Current (expected Jan 2026) \
+* PhD in Statistics and Computer Science, Bocconi University, 2021-2026\
+Thesis Title: [Bayesian hierarchical modeling of array-structured demographic data](https://tesidottorato.depositolegale.it/handle/20.500.14242/355872)\
 Advisor: [Daniele Durante](https://danieledurante.github.io/web/). Co-Advisor: [Emanuele Aliverti](https://emanuelealiverti.github.io/)
 * M.S. Statistical Sciences, University of Padua, 2019-2021\
-Thesis Title: [_Combination of estimates through confidence densities in logistic regression models_](https://thesis.unipd.it/handle/20.500.12608/22015)\
+Thesis Title: [Combination of estimates through confidence densities in logistic regression models](https://thesis.unipd.it/handle/20.500.12608/22015)\
 Advisor: [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori)
-* B.S. in Statistics and Management of Information, University of Milan-Bicocca, 2016-2019 \
+* B.S. in Statistics and Management of Information, University of Milan-Bicocca, 2016-2019\
 Thesis Title: Predictive maintenance, statistical approaches and models\
 Advisor: [Piergiorgio Lovaglio](https://www.unimib.it/pietro-giorgio-lovaglio)
 
