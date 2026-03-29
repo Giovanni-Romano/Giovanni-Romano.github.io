@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This page is intended as a short digital version of my CV. Here you can find the complete analog version of it: [[CV](/files/CV_GR.pdf)]
+This page is intended as a short digital version of my CV. Here you can find the complete analog version of it: [CV](/files/CV_GR.pdf)
 
 ## Current position
 * Postdoctoral researcher at KIT (Karlsruhe Institute of Technology) within the [KleinLab](https://kleinlab-statml.github.io/), advised by prof. Nadja Klein.
