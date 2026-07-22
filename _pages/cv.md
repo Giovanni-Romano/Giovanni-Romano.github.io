@@ -30,6 +30,7 @@ Advisor: [Piergiorgio Lovaglio](https://www.unimib.it/pietro-giorgio-lovaglio)
 * Internship at Deloitte Consulting (Actuarial Department), Spring 2016
 
 ## Awards
+* [Student paper and travel award](/files/awards/Award_IFCS2026.pdf), IFCS2026, Milan, University of Milano-Bicocca, _Bayesian Temporal Clustering of Leading Causes of Death Profiles Across Multiple Countries_.
 * Poster award, BNP14, UCLA, Los Angeles. _Dependent stochastic block models for sequences of directed networks, with application to USA causes of
 death_.
 * Junior travel award, ISBA2024, Ca’ Foscari University, Venice. _Bayesian local clustering of age-period mortality surfaces across multiple countries_.
