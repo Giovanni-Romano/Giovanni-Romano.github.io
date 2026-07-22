@@ -30,10 +30,10 @@ Advisor: [Piergiorgio Lovaglio](https://www.unimib.it/pietro-giorgio-lovaglio)
 * Internship at Deloitte Consulting (Actuarial Department), Spring 2016
 
 ## Awards
-* [Student paper and travel award](/files/awards/Award_IFCS2026.pdf), IFCS2026, Milan, University of Milano-Bicocca, _Bayesian Temporal Clustering of Leading Causes of Death Profiles Across Multiple Countries_.
+* [Student paper and travel award](/files/awards/Award_IFCS2026.pdf), IFCS 2026, Milan, University of Milano-Bicocca, _Bayesian temporal clustering of leading causes of death profiles across multiple countries_.
 * Poster award, BNP14, UCLA, Los Angeles. _Dependent stochastic block models for sequences of directed networks, with application to USA causes of
 death_.
-* Junior travel award, ISBA2024, Ca’ Foscari University, Venice. _Bayesian local clustering of age-period mortality surfaces across multiple countries_.
+* Junior travel award, ISBA 2024, Ca’ Foscari University, Venice. _Bayesian local clustering of age-period mortality surfaces across multiple countries_.
 * SIS best master thesis in Methodological Statistic, in memory of professor Oliviero Lessi (honorable mention)\
   [_Combination of estimates through confidence densities in logistic regression models_](https://thesis.unipd.it/handle/20.500.12608/22015), under the supervision of Nicola Sartori
 
