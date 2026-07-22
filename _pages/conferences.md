@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Talks
-* [Jul 2026] [IFCS 2026](https://ifcs2026.unimib.it/) (University of Milano-Bicocca): _Bayesian Temporal Clustering of Leading Causes of Death Profiles Across Multiple Countries_.
+* [Jul 2026] [IFCS 2026](https://ifcs2026.unimib.it/) (University of Milano-Bicocca): _Bayesian Temporal Clustering of Leading Causes of Death Profiles Across Multiple Countries_. With this talk I won the [student paper and travel award](/files/awards/Award_IFCS2026.pdf).
 * [Dec 2025] [CMStatistics 2025](https://www.cmstatistics.org/CFECMStatistics2025/index.php) (Birbeck, University of London): _Dependent stochastic block models for sequences of directed networks with application to causes of death co-occurrences_.
 * [Aug 2025] [Climbing Mortality Models II](https://danieledurante.github.io/web/meetings/meeting_CARONTE_3.html) (Misurina): _Bayesian temporal clustering of age-specific leading causes of death sequences across all countries_.
 * [Apr 2025] [BAYSM2025](https://baysm2025.github.io/) (Online): _Dependent extended stochastic block-models for sequences of networks indexed by a predictor_.
