@@ -10,9 +10,10 @@ author_profile: true
 <ins>Romanò G.</ins>, Castiglione C., Durante D. (2025+). 
 *arXiv:2510.01806*. [[link](https://doi.org/10.48550/arXiv.2510.01806)] [[pdf](/files/papers/dSBM_CoD_PAPER.pdf)]
 
+## Articles in journals
 * **Bayesian local clustering of age-period mortality surfaces across multiple countries**.  
-<ins>Romanò G.</ins>, Aliverti E., Durante D. (2025+). 
-*arXiv:2504.05240*. [[link](https://doi.org/10.48550/arXiv.2504.05240)] [[pdf](/files/papers/Mortality_Multi_PAPER.pdf)]
+<ins>Romanò G.</ins>, Aliverti E., Durante D. (2026). 
+*Journal of the Royal Statistical Society Series A: Statistics in Society*. [[link](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnag113/9003100?utm_source=authortollfreelink&utm_campaign=jrsssa&utm_medium=email&guestAccessKey=3d2f8824-534f-46e3-afdf-bca019836da7)] [[pdf](/files/papers/Mortality_Multi_PAPER.pdf)]
 
 ## Proceedings
 * **Age-Dependent Analysis of Mortality Patterns in Italy: A Network Perspective via Dynamic Stochastic Block Models.**
