@@ -20,4 +20,3 @@ You can find me in room 364 of the 20.20 building (Zirkel 2, 76131 Karlsruhe).
 - _Bayesian clustering of time-warped sequences of categorical variables_ with Klein, N.
 - _Bayesian temporal clustering of age-specific leading causes of death profiles across multiple countries_ with Piccarreta R., Durante, D.
 - _Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks._ with Castiglione C., Durante, D. \[submitted, see [pubblications](https://giovanni-romano.github.io/publications/)\]
-- _Bayesian local clustering of age-period mortality surfaces across multiple countries_.  with Aliverti E., Durante D. \[submitted, see [pubblications](https://giovanni-romano.github.io/publications/)\]
